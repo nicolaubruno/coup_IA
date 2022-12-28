@@ -2,4 +2,4 @@ In this project, we aim to develop an artificial intelligence to play the Coup c
 
 IA Authors:
 Bruno Nicolau Santos (nicolau.bruno@gmail.com),
-Natan Hilário da Silva;
+Natan Hilário da Silva (natan.hilario64@gmail.com);
